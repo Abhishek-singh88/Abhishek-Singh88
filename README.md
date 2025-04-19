@@ -23,18 +23,10 @@
 
 ### 🌐 Let's Connect
 <p align="center">
- <a href="https://www.linkedin.com/in/abhishek-singh-9645a628b" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-</a>
-
-  <a href="mailto:abhisheksingh4928@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/abhishek-singh-9645a628b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+<a href="mailto:abhisheksingh4928@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <!-- <a href="https://your-portfolio.com" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=firefox" /></a> -->
 </p>
 
----
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Abhishek-Singh88&icon=0&color=0" alt="Visitor Count" />
-</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
