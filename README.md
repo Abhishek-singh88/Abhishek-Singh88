@@ -23,9 +23,9 @@
 
 ### 🌐 Let's Connect
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://your-portfolio.com" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=firefox" /></a>
+  <a href="www.linkedin.com/in/abhishek-singh-9645a628b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:abhisheksingh4928@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <!-- <a href="https://your-portfolio.com" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=firefox" /></a> -->
 </p>
 
 ---
