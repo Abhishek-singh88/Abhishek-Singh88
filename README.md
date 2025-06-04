@@ -3,7 +3,40 @@
 
 ---
 
-### 📊 GitHub Stats:
+### 🧠 About Me
+
+
+---
+
+### 🛠️ Tech Stack
+
+#### 🚀 Languages
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity)
+
+#### ⚙️ Frameworks/Libraries
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
+![Node.js](https://img.shields.io/badge/-Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-grey?style=flat-square&logo=express)
+
+#### 🛢️ Databases
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+
+#### 🎨 Styling
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+
+#### 🛠️ Tools
+![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
+---
+
+### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Abhishek-Singh88&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <br/>
@@ -21,12 +54,12 @@
 
 ---
 
-### 🌐 Let's Connect
+### 🌐 Connect with Me
 <p align="center">
-<a href="https://www.linkedin.com/in/abhishek-singh-9645a628b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-<a href="mailto:abhisheksingh4928@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <!-- <a href="https://your-portfolio.com" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=firefox" /></a> -->
+  <a href="https://www.linkedin.com/in/abhishek-singh-9645a628b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:abhisheksingh4928@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
+---
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
