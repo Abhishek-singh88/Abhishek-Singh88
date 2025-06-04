@@ -4,7 +4,13 @@
 ---
 
 ### 🧠 About Me
+   Hi, I'm Abhishek Singh — a curious and driven developer who loves turning ideas into working products. I enjoy building full-stack web apps, exploring blockchain technology, and diving deep into how things work under the hood.
 
+I'm currently focused on mastering Next.js, Node.js, and Solidity, and I'm actively working on projects that blend modern web development with decentralized tech. I’ve also participated in hackathons like GDG and love collaborating on real-world challenges.
+
+Whether it’s crafting a clean frontend, managing backend APIs, or writing smart contracts, I enjoy the full journey of product development. Outside of code, I’m always eager to learn, share, and contribute to meaningful open-source projects.
+
+Let’s connect and build something impactful together!
 
 ---
 
