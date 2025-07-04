@@ -74,7 +74,8 @@ Let’s connect and build something impactful together!
 <p align="center">
    <a href="mailto:abhisheksingh4928@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
    <a href="https://www.linkedin.com/in/abhishek-singh-9645a628b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-   <a href="https://x.com/abhishekdotsol" target="_blank"><img src="https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=Twitter" /></a>
+<a href="https://twitter.com/abhishekdotsol" target="_blank"><img src="https://img.shields.io/badge/-X-black?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
 </p>
 
 ---
