@@ -32,15 +32,21 @@ Let’s connect and build something impactful together!
 ![Node.js](https://img.shields.io/badge/-Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-grey?style=flat-square&logo=express)
 ![Ethers.js](https://img.shields.io/badge/-Ethers.js-3C3C3D?style=flat-square)
+![Solana/Web3.js](https://img.shields.io/badge/-Solana%20Web3.js-000000?style=flat-square&logo=solana)
 
 
 ####  Databases
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
 
 ####  Styling
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![Aceternity UI](https://img.shields.io/badge/-Aceternity_UI-black?style=flat-square)
+
 
 ####  Tools
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code)
@@ -48,7 +54,7 @@ Let’s connect and build something impactful together!
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Hardhat](https://img.shields.io/badge/-Hardhat-181717?style=flat-square&logo=hardhat)
 ![Foundry](https://img.shields.io/badge/-Foundry-orange?style=flat-square)
-
+![Anchor](https://img.shields.io/badge/-Anchor-512DA8?style=flat-square)
 
 ---
 
