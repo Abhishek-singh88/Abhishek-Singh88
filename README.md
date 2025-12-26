@@ -76,6 +76,12 @@ Let’s connect and build something impactful together!
 
 ---
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Abhishek-Singh88&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
+---
+
 ### 🌐 Connect with Me
 <p align="center">
    <a href="mailto:abhisheksingh4928@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
