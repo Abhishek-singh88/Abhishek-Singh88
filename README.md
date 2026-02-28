@@ -60,7 +60,7 @@ Let’s connect and build something impactful together!
 
 ### 📊 GitHub Stats
 <p align="center">
- <img src = "https://github-readme-stats-peach-pi.vercel.app/api?username=abhishek-singh88&show_icons=true&hide_title=true&include_all_commits=true&count_private=true&bg_color=45,2b8eaf,b222a8&text_color=ffffff&icon_color=ffffff&title_color=ffffff&border_color=000000"/>
+ <img src = "https://github-readme-stats-peach-pi.vercel.app/api?username=abhishek-singh88&show_icons=true&hide_title=true&include_all_commits=true&count_private=true&theme=dark"/>
   <br/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=Abhishek-Singh88&theme=dark&hide_border=false" alt="GitHub Streak" />
   <br/>
