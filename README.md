@@ -64,7 +64,7 @@ Let’s connect and build something impactful together!
   <br/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=Abhishek-Singh88&theme=dark&hide_border=false" alt="GitHub Streak" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-Singh88&theme=dark&hide_border=false&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats-peach-pi.vercel.app/api/top-langs/?username=Abhishek-Singh88&theme=dark&hide_border=false&layout=compact" alt="Top Languages" />
 </p>
 
 ---
